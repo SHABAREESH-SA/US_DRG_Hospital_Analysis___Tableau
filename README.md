@@ -14,3 +14,9 @@ Lily who works for Medicare part A program, which covers inpatient hospital stay
 2) What are the total discharges by Body System Impacted?
 3) What are the total discharges by state, hospital and time?
 4) Which hospitals have provided medical services for a selected DRG and ehat has been the average total payments?
+
+
+**Some Major Insights**
+
+* Geographic Hospital finder map was built with hospital name, corresponding discharges, average payments and medicare payments.
+* Total discharges by DRG, Body System Impacted are visually represented with time series data with colorful charts and tooltip.
